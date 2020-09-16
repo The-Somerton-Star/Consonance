@@ -7,11 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Pod
+namespace ECO
 {
-    // Each Pod needs association to every Enterprise Care Obtainment, in alignment with the Pink Stars,
-    // making Kingdom, Republic, Empire, Western and Eastern Romanum of Peas; for in their contextual Flux of relevant association, to perpetually regard Clarity by.
-
     public class Program
     {
         public static void Main(string[] args)
