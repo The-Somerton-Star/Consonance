@@ -6,7 +6,10 @@ namespace Heartart.Interactivity
 {
     class Magnetism
     {
-        private Magnetism() { }
+        private Magnetism()
+            {
+            // Appropriate Bubble heartart
+            }
 
         private static class MagnetismHolder
         {

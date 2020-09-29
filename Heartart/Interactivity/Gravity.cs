@@ -6,7 +6,10 @@ namespace Heartart.Interactivity
 {
     class Gravity
     {
-        private Gravity() { }
+        private Gravity()
+            {
+            // Bubble Reception say
+            }
 
         private static class GravityHolder
         {

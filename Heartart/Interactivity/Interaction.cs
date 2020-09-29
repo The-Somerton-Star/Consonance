@@ -6,7 +6,10 @@ namespace Heartart.Interactivity
 {
     class Interaction
     {
-        private Interaction() { }
+        private Interaction()
+            {
+            // Heartart appropriate Say
+            }
 
         private static class InteractionHolder
         {

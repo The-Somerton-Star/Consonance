@@ -6,7 +6,10 @@ namespace Heartart.Interactivity
 {
     class Integrity
     {
-        private Integrity() { }
+        private Integrity()
+            {
+            // Say Appropriate bubble.
+            }
 
         private static class IntegrityHolder
         {

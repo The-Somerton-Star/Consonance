@@ -6,7 +6,10 @@ namespace Heartart.Interactivity
 {
     class Iota
     {
-        private Iota() { }
+        private Iota()
+            {
+            // Bubble Reception appropriate
+            }
 
         private static class IotaHolder
         {

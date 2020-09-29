@@ -12,14 +12,18 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "VaultUri": "https://heartartvault.vault.azure.net/",
+        "AZURE_USERNAME": "eleonora.lindblom@outlook.com"
       }
     },
     "Heartart": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "VaultUri": "https://heartartvault.vault.azure.net/",
+        "AZURE_USERNAME": "eleonora.lindblom@outlook.com"
       },
       "dotnetRunMessages": "true",
       "applicationUrl": "http://localhost:5000"
@@ -28,7 +32,11 @@
       "commandName": "Docker",
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
-      "publishAllPorts": true
+      "publishAllPorts": true,
+      "environmentVariables": {
+        "VaultUri": "https://heartartvault.vault.azure.net/",
+        "AZURE_USERNAME": "eleonora.lindblom@outlook.com"
+      }
     }
   }
 }
