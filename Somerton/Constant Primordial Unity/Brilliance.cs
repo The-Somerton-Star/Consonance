@@ -5,6 +5,7 @@
         public Brilliance(char batch)
         {
             // 4! & 5! for factoring comprehension
+            // A Meter Parallax at a perpendicular Meter to Brilliance, yields Bless as its Distance, by the Meter.
             Purpose = AttainedRealQuanta.Innate(batch); // X4 @Theory = K.C
             Means = AttainedRealQuanta.Innate(batch); // E = B.10
             Presence = AttainedRealQuanta.Innate(batch); // = D.A
